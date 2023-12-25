@@ -31,7 +31,6 @@ ALLOWED_HOSTS = ['.vercel.app', 'now.sh', 'localhost']
 # Application definition
 
 INSTALLED_APPS = [
-    'task',
      'hello',
     'newyear',
     'django.contrib.admin',
